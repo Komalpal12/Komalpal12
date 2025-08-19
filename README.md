@@ -4,12 +4,12 @@
 
 ✨ *"Code is not just logic, it’s creativity in motion."* ✨
 
+## 🚀 About Me
 🎓 I'm a **Final year student** passionate about web development and programming.  
 💡 I enjoy building creative projects that combine design and functionality.  
 🚀 Currently exploring **MERN Stack Development** and enhancing my skills.  
 
 
-## 🚀 About Me
 
 * 💻 Full Stack MERN Developer (MongoDB | Express | React | Node.js)
 * 🎨 Passionate about **UI/UX design & clean code**
