@@ -4,6 +4,11 @@
 
 ✨ *"Code is not just logic, it’s creativity in motion."* ✨
 
+🎓 I'm a **Final year student** passionate about web development and programming.  
+💡 I enjoy building creative projects that combine design and functionality.  
+🚀 Currently exploring **MERN Stack Development** and enhancing my skills.  
+
+
 ## 🚀 About Me
 
 * 💻 Full Stack MERN Developer (MongoDB | Express | React | Node.js)
@@ -22,6 +27,15 @@ Backend:   Node.js | Express.js
 Tools:     Git | GitHub | VS Code | Postman  
 ```
 ---
+
+## 📂 Projects  
+
+### 🌐 [Portfolio Website] 
+A personal portfolio showcasing my skills, education, and projects with responsive design.  
+### 📝 [Semantic Product Page]
+An online store product page built with semantic HTML and full CSS concepts. 
+🔑 [Login & Signup UI]
+Frontend design of login and signup pages with modern styling.  
 
 ## 🌍 Connect With Me
 
