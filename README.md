@@ -21,15 +21,6 @@ Frontend:  HTML | CSS | JavaScript | React | Tailwind | Bootstrap
 Backend:   Node.js | Express.js 
 Tools:     Git | GitHub | VS Code | Postman  
 ```
-
-
-
-## ✨ My GitHub Stats
-
-![Komal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Komalpal12\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komalpal12\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 🌍 Connect With Me
