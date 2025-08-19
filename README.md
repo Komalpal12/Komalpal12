@@ -29,16 +29,7 @@ Tools:     Git | GitHub | VS Code | Postman
 
 ![Komal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Komalpal12\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komalpal12\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌍 Connect With Me
-
-* 💼 [LinkedIn](Got it 👍 You want a **creative `README.md` file** for yourself (Komal).
-Here’s a professional but innovative template that you can use on GitHub:
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komalpal12\&layout=compact\&theme=tokyonight)---
 
 ## 🛠️ Tech Stack
 
