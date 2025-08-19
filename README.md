@@ -32,8 +32,6 @@ Tools:     Git | GitHub | VS Code | Postman
 
 ### 🌐 [Portfolio Website] 
 A personal portfolio showcasing my skills, education, and projects with responsive design.  
-### 📝 [Semantic Product Page]
-An online store product page built with semantic HTML and full CSS concepts. 
 🔑 [Login & Signup UI]
 Frontend design of login and signup pages with modern styling.  
 
